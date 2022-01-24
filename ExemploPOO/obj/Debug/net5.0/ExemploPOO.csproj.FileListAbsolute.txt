@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/bin/Debug/net5.0/ExemploPOO
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/bin/Debug/net5.0/ExemploPOO.deps.json
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/bin/Debug/net5.0/ExemploPOO.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/bin/Debug/net5.0/ExemploPOO.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/bin/Debug/net5.0/ExemploPOO.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/bin/Debug/net5.0/ref/ExemploPOO.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/bin/Debug/net5.0/ExemploPOO.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/obj/Debug/net5.0/ExemploPOO.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/obj/Debug/net5.0/ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/obj/Debug/net5.0/ExemploPOO.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/obj/Debug/net5.0/ExemploPOO.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/obj/Debug/net5.0/ExemploPOO.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/obj/Debug/net5.0/ExemploPOO.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/obj/Debug/net5.0/ref/ExemploPOO.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/obj/Debug/net5.0/ExemploPOO.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/ExemploPOO/obj/Debug/net5.0/ExemploPOO.genruntimeconfig.cache
