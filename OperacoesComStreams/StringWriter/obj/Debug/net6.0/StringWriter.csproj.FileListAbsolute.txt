@@ -1,0 +1,15 @@
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/bin/Debug/net6.0/StringWriter
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/bin/Debug/net6.0/StringWriter.deps.json
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/bin/Debug/net6.0/StringWriter.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/bin/Debug/net6.0/StringWriter.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/bin/Debug/net6.0/ref/StringWriter.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/bin/Debug/net6.0/StringWriter.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/obj/Debug/net6.0/StringWriter.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/obj/Debug/net6.0/StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/obj/Debug/net6.0/StringWriter.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/obj/Debug/net6.0/StringWriter.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/obj/Debug/net6.0/StringWriter.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/obj/Debug/net6.0/StringWriter.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/obj/Debug/net6.0/ref/StringWriter.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/obj/Debug/net6.0/StringWriter.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoOOC#/OperacoesComStreams/StringWriter/obj/Debug/net6.0/StringWriter.genruntimeconfig.cache
